@@ -31,4 +31,4 @@ Prototypes for functions written in this project:
 
 # AUTHOR
 
-##ODOYO DANIEL A.K.A Ody.
+# ODOYO DANIEL A.K.A Ody.
